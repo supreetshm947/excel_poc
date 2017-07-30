@@ -1,0 +1,6 @@
+initialized -> private Map<Integer, FileError> errors = new HashMap<>();
+in columns -> columnNullable init value false error
+assumption -> there are annotations of column type, id is always double
+
+
+FILEERROR, ANY BEAN, open validate n look for field converter
